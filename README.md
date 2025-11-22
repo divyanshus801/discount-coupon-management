@@ -197,3 +197,11 @@ These were intentionally not implemented to keep the core assignment focused whi
 npm test
 npm run test:watch
 ```
+
+## Live Details
+
+This backend is deployed on AWS EC2 and accessible publicly using the base URL below:
+
+```
+Base URL: http://13.204.88.116:3000/api/v1
+```
