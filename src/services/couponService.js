@@ -27,7 +27,7 @@ const createCoupon = async (data) => {
       code: data.code.toUpperCase(),
       type: data.type,
       details: data.details,
-      isActive: data.isActive !== false,
+      isActive: data.isActive ?? true,
       expiryDate: data.expiryDate,
       usageLimit: data.usageLimit,
       minCartValue: data.minCartValue || 0,
