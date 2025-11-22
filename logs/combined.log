@@ -1,0 +1,7 @@
+{"level":"info","message":"Starting database seeding...","service":"monk-commerce-api","timestamp":"2025-11-20 18:17:39"}
+{"level":"info","message":"✓ Database synchronized","service":"monk-commerce-api","timestamp":"2025-11-20 18:17:42"}
+{"level":"info","message":"✓ Cleared existing coupons","service":"monk-commerce-api","timestamp":"2025-11-20 18:17:42"}
+{"level":"info","message":"✓ Created 4 sample coupons","service":"monk-commerce-api","timestamp":"2025-11-20 18:17:42"}
+{"level":"info","message":"✓ Retrieved 4 coupons","service":"monk-commerce-api","timestamp":"2025-11-20 18:19:30"}
+{"level":"info","message":"✓ Found 3 applicable coupons","service":"monk-commerce-api","timestamp":"2025-11-20 18:19:30"}
+{"level":"info","message":"✓ Coupon 723b7c1c-51b6-43a6-b36a-27db9c9107f7 applied for user user123","service":"monk-commerce-api","timestamp":"2025-11-20 18:23:46"}
