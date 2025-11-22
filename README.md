@@ -19,7 +19,7 @@ The implementation focuses on correctness, clarity, and documenting all real-wor
 Clone and install dependencies:
 
 ```
-git clone <repo-url>
+git clone https://github.com/divyanshus801/discount-coupon-management.git
 cd monk-commerce-backend
 npm install
 ```
